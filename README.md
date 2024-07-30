@@ -7,7 +7,4 @@
 - ⚡ Fun fact: ...
 -   !!!  Do not attempt to violate the laws with anything contained here. !!!
 
-<!---
-mahmutaymahmutay/mahmutaymahmutay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- “Have no fear of perfection, you’ll never reach it.”   Salvador Dalí 
