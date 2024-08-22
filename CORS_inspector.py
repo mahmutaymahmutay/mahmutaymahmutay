@@ -1,15 +1,15 @@
-#############################################################################################
-##                                                                                         ##
-##  This Auxilary script does search cross-origin resource sharing (CORS) misconfigration  ##
-##     Author: Mahmut AY < mahmutayy@yahoo.com >                                           ##
-##                                                                                         ##
-##              USAGE:  CORS_inspector.py  <url>                                           ##  
-##                                                                                         ##
-##                This is only educational purpose usage                                   ##
-##       !!  Do not attempt to violate the laws with anything contained here. !!!          ##
-##                                                                                         ##
-##                                                                                         ##
-############################################################################################
+##################################################################################################
+##                                                                                              ##
+##  This Auxilary python code does search cross-origin resource sharing (CORS) misconfigration  ##
+##     Author: Mahmut AY < mahmutayy@yahoo.com >                                                ##
+##                                                                                              ##
+##              USAGE:  CORS_inspector.py  <url>                                                ##  
+##                                                                                              ##
+##                This is only educational purpose usage                                        ##
+##       !!  Do not attempt to violate the laws with anything contained here. !!!               ##
+##                                                                                              ##
+##                                                                                              ##
+##################################################################################################
 
 import sys
 import webbrowser
@@ -62,7 +62,7 @@ html_template = f"""
 </html>
 """
 
-# Define the HTML file name
+# assigning the HTML file name
 html_file = "{url}.corsInspect.html"
 
 # Write the HTML content to the file
@@ -71,5 +71,5 @@ with open(html_file, "w") as file:
 
 print(f"HTML file '{html_file}' has been generated.")
 
-# Automatically open the generated HTML file in the default web browser
+# Automatically open the generated HTML file in the default web browser ( it wil  be opened yoru default Browser )
 webbrowser.open(f"file://{os.path.abspath(html_file)}")
