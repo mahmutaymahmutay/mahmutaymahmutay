@@ -9,7 +9,7 @@
 ##                                                                                          ##
 ##             This is only for educational purposes usage                                  ##
 ##       !!  Do not attempt to violate the laws with anything contained here. !!!           ##
-############################################################################################## 
+##############################################################################################
 
 import requests
 from bs4 import BeautifulSoup
