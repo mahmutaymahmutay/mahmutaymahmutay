@@ -5,7 +5,7 @@
 ##                                                                                          ##
 ##           Author: Mahmut AY < mahmutayy@yahoo.com >                                      ##
 ##                                                                                          ##
-##        Please run equirements_HtmlInjector.py  file first !!                             ##
+##        Please run equirements.py  file first !!                                          ##
 ##             USAGE:  HHtmlInjector.py  <url>                                              ##  
 ##                                                                                          ##
 ##             This is only for educational purposes usage                                  ##
