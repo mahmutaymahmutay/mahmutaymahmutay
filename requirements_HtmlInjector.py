@@ -4,8 +4,8 @@
 ##                                                                                          ##
 ##        Author: Mahmut AY < mahmutayy@yahoo.com >                                         ##
 ##                                                                                          ##
-##             USAGE: python3.x  requirements.py                                            ##  
-##############################################################################################                                                                                        ##
+##             USAGE: python3.x  requirements_HtmlInjector.py                               ##  
+##############################################################################################                                                                                       
 
 
 import subprocess
