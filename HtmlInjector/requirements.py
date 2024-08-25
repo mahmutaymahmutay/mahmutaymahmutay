@@ -47,5 +47,5 @@ if __name__ == "__main__":
 
     # Let's Check and install each package
     for package, import_name in required_packages.items():
-        check_and_install(package, import_name)
+        check_and_install(package, import_name) 
       
