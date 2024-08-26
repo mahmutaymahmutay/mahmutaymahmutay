@@ -1,4 +1,4 @@
 # The SearchMoon 
-***The SearchMoon is a Excel deep searching tool written buy python***<br>
+***The SearchMoon is an Excel deep searching pytthon tool*** <br>
 ***Author: Mahmut AY <mahmutayy@yahoo.com>***
 
